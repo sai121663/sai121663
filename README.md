@@ -1,6 +1,6 @@
 ## Check out some of my recent projects 🧑‍💻: 
 
 
-    - 🏀 Guess the NBA Player: https://github.com/sai121663/Guess-The-NBA-Player
-    - ❔ Trivia Game: https://github.com/sai121663/Trivia-Game
-    - ⌨️ Typing Game: https://github.com/sai121663/Typing-Game
+    - 📈 **LineTracker**: https://linetrackerr.vercel.app/
+    - 📹 **YouTube Video Summarizer**: https://summarizevideo.vercel.app/
+    - 🚆 **Kitchener Line Tracker**: https://kitchenerlinetracker.vercel.app/
